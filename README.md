@@ -1,1 +1,9 @@
-# LACCI2025
+**Paper Title:** MBF-Net: Multi-stage Bilateral-feature Fusion Network for EEG-Based Emotion Recognition
+
+**Conference Name:** IEEE Latin American Conference on Computational Intelligence 2025 (Accepted)
+
+**Abstract:** Mental health conditions are increasingly affecting populations across the world. While audio, video, and image-based emotion recognition methods are widely used, they are susceptible to intentional emotion masking by individuals. In contrast, Electroencephalogram (EEG)-based emotion recognition offers a more reliable and direct insight into a person’s emotional state, making it valuable for applications in human-computer interaction, medical diagnostics, military systems, and mental health monitoring. However, existing EEG-based models often struggle with limited accuracy and generalizability. This paper introduces a Multi- stage Bilateral-feature, Fusion-based deep learning framework, called MBF-Net, that integrates parallel Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) streams through a multi-stage feature fusion strategy. The model is further enhanced by attention mechanisms, including Multi-Head Attention (MHA) and the Convolutional Block Attention Module (CBAM), effectively capturing both spatial and temporal dependencies. The proposed model demonstrates superior performance on four benchmark EEG datasets, namely SWELL, WESAD, Brainwave EEG, and SEED, achieving classification accuracies of 99.99%, 99.99%, 99.00%, and 99.99%, respectively. These results underscore the proposed model’s robustness, interpretability, and real-world applicability in affective computing and brain-computer interface domains.
+Index Terms: EEG, Emotion Recognition, Feature Fusion, CNN-LSTM, Affective Computing, Brain-Computer Interface
+
+**Proposed Methodology:**
+![Read Me File Content_cropped_page-0001](https://github.com/user-attachments/assets/bf173873-b2d1-4e40-aaef-5f10c87ef426)
